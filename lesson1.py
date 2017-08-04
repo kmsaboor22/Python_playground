@@ -1,3 +1,6 @@
-C = 50
-F = C * 9 / 5 + 32
-print(F)
+
+#Ask the user to input their name and assign it to a variable name.
+
+username = input('What is your name ')
+
+print('Hello', username)
