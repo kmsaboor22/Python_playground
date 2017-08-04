@@ -1,7 +1,8 @@
-#Ask the user to input their name and assign it to a variable name
+# Ask the user to input their name and assign it to a variable name
 
-username = input('What is your name ')
+username = input("What is your username ")
 
-#Print out hello followed by the name they enter
+# Print out hello followed
+# by the name they enter
 
-print('Hello', username)
+print("Hello", username)
