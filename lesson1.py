@@ -6,3 +6,6 @@ username = input("What is your username ")
 # by the name they enter
 
 print("Hello", username)
+from datetime import datetime
+now = datetime.now()
+print(now)
