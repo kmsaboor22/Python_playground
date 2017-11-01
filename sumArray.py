@@ -1,13 +1,12 @@
 
-m_Array = [1, 3, 6, 18, 20, 99, 4, 7]
+my_Array = [1, 3, 6, 18, 20, 99, 4, 7]
 
 # step one create a total var
 # 
-total = 0
+totalsum = 0
 
-for i in range (len(m_Array) ):
+for i in range (len(my_Array) ):
     
-    total+= m_Array[i]
+    totalsum+= my_Array[i]
 
-print(total)
-    
+print(totalsum)  
