@@ -1,5 +1,4 @@
-
-my_Array = [1, 3, 6, 18, 20, 99, 4, 7]
+my_Array = [1,3,6,18,20,99,4,7]
 
 # step one create a total var
 # 
